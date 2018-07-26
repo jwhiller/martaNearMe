@@ -10,6 +10,9 @@ gem 'sqlite3'
 gem 'geocoder'
 gem 'httparty'
 gem 'jquery-rails'
+gem 'figaro'
+gem 'bootstrap-sass'
+gem 'font-awesome-rails'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
